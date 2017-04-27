@@ -1,0 +1,7 @@
+name             'bs'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures bs'
+long_description 'Installs/Configures bs'
+version          '0.1.0'
